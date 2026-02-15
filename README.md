@@ -22,8 +22,6 @@ End-to-end:
 - **Quant**: Regression for correlations (NumPy/SciPy).  
 - **Predictive**: LSTM for 7-day forecasts (TensorFlow).  
 
-See `/projects/pipeline.ipynb` for full code. Builds portfolio-ready trading signals.
-
 ## Datasets
 - EIA.gov: Energy stats.  
 - Yahoo Finance: Prices via `yfinance` (no API key needed).  
